@@ -1,0 +1,8 @@
+.venv
+logs
+base_code
+dags/__pycache__/
+transformation/target
+config.sh
+.env
+requirements.txt
